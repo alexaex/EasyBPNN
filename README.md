@@ -1,2 +1,12 @@
 # EasyBPNN
-an easy implemention of BPNN based on Eigen3.
+an easy implemention of BPNN based on Eigen3.And can be used to build MLP.
+
+ACTIVATION FUNCTION:
+RELU()
+SIGMOID()
+
+LAYER MODLUE:
+LINEAR(IN_FEATURES,OUT_FEATURES)
+
+LOSS FUNCTION:
+MSE
