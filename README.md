@@ -1,2 +1,2 @@
-# EasyBPN
-''an easy implemention of BPNN based on Eigen3.''
+# EasyBPNN
+an easy implemention of BPNN based on Eigen3.
